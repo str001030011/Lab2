@@ -1,0 +1,10 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(377,5): warning MSB8004: Output 目錄結尾不是結尾斜線。這個建置執行個體將會加入此斜線，因為這樣才能正確評估 Output 目錄。
+  function_1.c
+  function_2.c
+  function_3.c
+  function_4.c
+  function_5.c
+c:\lab2\c_code\ch2_lab1-2\source\function_5.c(10): warning C4101: 'temp2': 未參考的區域變數
+  Main.c
+c:\lab2\c_code\ch2_lab1-2\source\main.c(3): fatal error C1083: 無法開啟包含檔案: 'Han_Xin.h': No such file or directory
+  正在產生程式碼...
